@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quieres un amigo</string>
+    <string name="perrogafas">TODO</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="pitbull">pitbull</string>
+    <string name="aqui_esta_tu_amigo">Aqui esta tu amigo</string>
+    <string name="terrier">terrier</string>
+    <string name="adoptame">Adoptame</string>
+    <string name="tobi">TOBI</string>
+    <string name="zeus">Zeus</string>
+    <string name="todo">TODO</string>
+    <string name="men">MENÚ</string>
+</resources>
